@@ -1,6 +1,9 @@
 # OpenAstroTracker-AstroBerry-LCD
 An enclosure for the MKS Gen_L and a raspberry pi for use with the OpenAstroTracker.
 
+![ss 1](ss1.png?raw=true)
+![ss 2](ss2.png?raw=true)
+
 (not affiliated with OAT)
 
 The f360 design is highly parameterized and should hopefully be easy to customize or extend for your own needs. Please feel free to send pull requests with changes, variants, or build photos!
