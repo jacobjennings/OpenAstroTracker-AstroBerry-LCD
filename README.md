@@ -21,7 +21,7 @@ just change it to fit a screw directly if you wish.
 
 A standard 80mm computer fan will fit on top if you want to use it.
 
-The holes on the sides are just big enough to fit a cigarette lighter plug through which is what I use for powering the whole thing.
+The holes on the sides are just big enough to fit a cigarette lighter plug through which is what I use for powering the whole thing. They are 23mm sized for a rubber wiring gasket you can get from aliexpress etc. though it's not really necessary.
 
 I use a 12v power source combined with a 12v->5v buck converter from amazon to power the MKS and the pi (directly to the pins). 
 
